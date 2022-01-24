@@ -1,0 +1,71 @@
+package vehicle;
+import java.util.Scanner;
+public class MainMenu {
+	
+	public static void mainMenu() {
+		System.out.println("************************************************************************************************");
+		System.out.println("*                                                                                              *");
+		System.out.println("*                               GROUP 1 SKIP 1013 GROUP PROJECT                                *");
+		System.out.println("*                                   WELCOME TO VEHICLE SYSTEM                                  *");
+		System.out.println("*                                THE BEST SERVICES FOR YOUR DAY                                *");
+		System.out.println("*                       PLAESE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *");
+		System.out.println("*                                                                                              *");
+		System.out.println("************************************************************************************************");
+		System.out.println("* 1. Flight Reservation System                                                                 *");
+		System.out.println("* 2. Cruise Dining System                                                                      *");
+		System.out.println("* 3. Motorcycle Service Charge System                                                          *");
+		System.out.println("* 4. Train Ticket System                                                                       *");
+		System.out.println("* 5. Car Performance Tuning System                                                             *");
+		System.out.println("* CLICK 0 TO EXIT                                                                              *");
+		System.out.println("************************************************************************************************");
+	}
+	
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+		
+		mainMenu();
+		LogIn l = new LogIn();
+		l.main(args);
+		char option;
+		boolean isTerminate = true;
+		Scanner scan = new Scanner (System.in);
+		System.out.print("PLEASE ENTER YOUR CHOICE : ");	
+			int vehicle = scan.nextInt();
+			
+			if (vehicle == 1) {
+				Aircraft a = new Aircraft();
+				a.main(args);
+			}
+			
+			else if  (vehicle == 2) {
+				Cruise c = new Cruise();
+				c .main(args);
+			}
+			
+			else if (vehicle == 0) {
+				isTerminate = false;
+			}
+			
+			else 
+			{
+			    System.out.println("Wrong. Please entered the correct input only");
+			    System.out.println("The correct input is : ");
+			    System.out.println("// 1: Flight Reservation System )");
+			    System.out.println("// 2 : Cruise Dining System ");
+			    System.out.println("// 3 : Motorcycle Service Charge System ");
+			    System.out.println("// 4 : Train Ticket System ");
+			    System.out.println("// 5 : Car Performance Tuning System ");
+			}
+			
+		System.out.println("");	
+		System.out.println("THANK YOU FOR USING OUR VEHICLE SYSTEM!");
+		System.out.println("      HAVE A NICE DAY ^_^     ");
+		System.out.println("");
+		System.out.println("Prepared By: GROUP 1 VEHICLE ");
+		System.out.println("");
+	}
+	
+	
+}
+
+
