@@ -1,0 +1,97 @@
+************************************************************************************************
+*                                                                                              *
+*                               GROUP 1 SKIP 1013 GROUP PROJECT                                *
+*                                   WELCOME TO VEHICLE SYSTEM                                  *
+*                                THE BEST SERVICES FOR YOUR DAY                                *
+*                       PLAESE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *
+*                                                                                              *
+************************************************************************************************
+*            ONCE YOU ENTER THE INPUT OF THE CHOICE YOU WILL DIRECTLY ENTER THE SYSTEM         *
+* 1. Flight Reservation System                                                                 *
+* 2. Cruise Dining System                                                                      *
+* 3. Motorcycle Service Charge System                                                          *
+* 4. Train Ticket System                                                                       *
+* 5. Car Performance Tuning System                                                             *
+* CLICK 0 TO EXIT THE MAIN MENU                                                                *
+************************************************************************************************
+CREATE YOUR ACCOUNT IN THE SYSTEM FOR FREE! 
+Please insert your full name: 
+group 1
+Please insert your username: 
+group1isthebest
+CREATE YOUR OWN PASSWORD
+Terms and Conditions :
+1. A password must have at least eight characters.
+2. A password consists of only letters and digits.
+3. A password must contain at least two digits 
+Input a password (You are agreeing to the above Terms and Conditions.): ggwp1234
+Password is valid: ggwp1234
+PLEASE ENTER YOUR CHOICE : THE OUTPUT ACCEPTED ONLY 1/2/3/4/5/0 : 5
+Welcome to EvoClub Tuning Workshop
+Please select your car make:
+[1] Audi 
+[2] BMW 
+[3] Honda 
+[4] Toyota 
+1
+Please select your Audi model:
+[1] RS3
+[2] RS4
+[3] RS6
+[4] RS7
+2
+Your Car Info:
+Audi RS4 Avant
+Manufactured Year: 2019
+Engine Tech: V6 6-cylinder engine, turbocharged
+Engine Code: AVK
+Engine Max Output(HP): 450.0
+Engine Max Torque in Nm: 600.0
+Engine Max RPM: 6700.0
+Drivetrain: Quattro All-Wheel Drive
+Transmission: Tiptronic with 8-speed
+Net Weight: 1745.0
+Top Speed in KM/H: 280.0 (Limited)
+Acceleration: 4.1
+
+---------------------------------------------------------------------
+|Stage 2 Tuning Package: Torque Performance                         |
+|Takeda Momentum Cold Air Intake System: 17.0HP, 36.0Nm             |
+|Bladerunner Intercooler Hot and Cold Side: 8.0HP, 13.0Nm           |
+|Wagner Tuning Competition Intercooler Kit: 32.0HP, 53.0Nm          |
+|Takeda Twisted Steel Down-pipe: 36.0HP, 37.0Nm                     |
+|Takeda Stainless Steel Cat-Back Exhaust: 14.0HP, 22.0Nm            |
+|Takeda Twisted Steel Mid-pipe: 15.0HP, 20.0Nm                      |
+|Hondata Flash Pro ECU: 45.0HP, 79.0Nm                              |
+|Total Output: 167.0HP, 260.0Nm                                     |
+---------------------------------------------------------------------
+
+-------------------------------------
+|Engine Stats and Data after tuning:|
+|Tuned Engine Horsepower: 617.0HP   |
+|Tuned Engine Torque: 860.0Nm       |
+-------------------------------------
+
+The Elapsed Time(ET) Method
+This method uses the vehicle weight and the
+time(ET) to finish a quarter mile (402.3 meters) on the formula of
+Enter net weight of the car in kilogram:
+15000
+Enter engine horsepower:
+1203
+Time to finish Quarter Mile(ET): 17.58 seconds
+
+The Trap-Speed Method
+This method uses the vehicle weight and the speed
+which the vehicle finished a quarter mile (402.3 meters) on the formula of
+Enter the engine horsepower:
+123
+Enter the net weight of the car in the kilogram:
+1
+Speed when finishing Quarter Mile: 1163.73KM/H
+
+THANK YOU FOR USING OUR VEHICLE SYSTEM!
+      HAVE A NICE DAY ^_^     
+
+Prepared By: GROUP 1 VEHICLE 
+
