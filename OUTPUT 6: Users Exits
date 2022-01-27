@@ -1,0 +1,35 @@
+************************************************************************************************
+*                                                                                              *
+*                               GROUP 1 SKIP 1013 GROUP PROJECT                                *
+*                                   WELCOME TO VEHICLE SYSTEM                                  *
+*                                THE BEST SERVICES FOR YOUR DAY                                *
+*                       PLAESE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *
+*                                                                                              *
+************************************************************************************************
+*            ONCE YOU ENTER THE INPUT OF THE CHOICE YOU WILL DIRECTLY ENTER THE SYSTEM         *
+* 1. Flight Reservation System                                                                 *
+* 2. Cruise Dining System                                                                      *
+* 3. Motorcycle Service Charge System                                                          *
+* 4. Train Ticket System                                                                       *
+* 5. Car Performance Tuning System                                                             *
+* CLICK 0 TO EXIT THE MAIN MENU                                                                *
+************************************************************************************************
+CREATE YOUR ACCOUNT IN THE SYSTEM FOR FREE! 
+Please insert your full name: 
+group1
+Please insert your username: 
+group1isthebest
+CREATE YOUR OWN PASSWORD
+Terms and Conditions :
+1. A password must have at least eight characters.
+2. A password consists of only letters and digits.
+3. A password must contain at least two digits 
+Input a password (You are agreeing to the above Terms and Conditions.): abcd1234
+Password is valid: abcd1234
+PLEASE ENTER YOUR CHOICE : THE OUTPUT ACCEPTED ONLY 1/2/3/4/5/0 : 0
+
+THANK YOU FOR USING OUR VEHICLE SYSTEM!
+      HAVE A NICE DAY ^_^     
+
+Prepared By: GROUP 1 VEHICLE 
+
