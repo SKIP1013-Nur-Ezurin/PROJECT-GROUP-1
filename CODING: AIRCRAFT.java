@@ -2,6 +2,7 @@ package vehicle;
 import java.io.*;
 import java.util.Scanner;
 
+// Flight Reservation System
 public class Aircraft {
 	private static final int DISPLAYPACKAGE = 0, DISPLAYINDSEAT = 1, DISPLAYDUOSEAT = 2, DISPLAYFAMSEAT = 3;
 	//Declare (as global) variable and its value
