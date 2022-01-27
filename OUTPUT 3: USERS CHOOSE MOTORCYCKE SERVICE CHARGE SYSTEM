@@ -1,0 +1,154 @@
+************************************************************************************************
+*                                                                                              *
+*                               GROUP 1 SKIP 1013 GROUP PROJECT                                *
+*                                   WELCOME TO VEHICLE SYSTEM                                  *
+*                                THE BEST SERVICES FOR YOUR DAY                                *
+*                       PLAESE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *
+*                                                                                              *
+************************************************************************************************
+*            ONCE YOU ENTER THE INPUT OF THE CHOICE YOU WILL DIRECTLY ENTER THE SYSTEM         *
+* 1. Flight Reservation System                                                                 *
+* 2. Cruise Dining System                                                                      *
+* 3. Motorcycle Service Charge System                                                          *
+* 4. Train Ticket System                                                                       *
+* 5. Car Performance Tuning System                                                             *
+* CLICK 0 TO EXIT THE MAIN MENU                                                                *
+************************************************************************************************
+CREATE YOUR ACCOUNT IN THE SYSTEM FOR FREE! 
+Please insert your full name: 
+group 6
+Please insert your username: 
+group6isthebest
+CREATE YOUR OWN PASSWORD
+Terms and Conditions :
+1. A password must have at least eight characters.
+2. A password consists of only letters and digits.
+3. A password must contain at least two digits 
+Input a password (You are agreeing to the above Terms and Conditions.): abcd1234
+Password is valid: abcd1234
+PLEASE ENTER YOUR CHOICE : THE OUTPUT ACCEPTED ONLY 1/2/3/4/5/0 : 3
+Welcome to System to Calculate Estimated Service Charge
+______________________________________________________________________________________________
+| Braking problems    | Bad Throttle Response | Vibrations or jerking | High Fuel Consumption|
+|_____________________|_______________________|_______________________|______________________|
+|Item 1: Brake cable  |Item 1: Carburetor     |Item 1: Shock absorber |Item 1: Clutch plates |
+|Item 2: Brake pads   |Item 2: Air filter     |Item 2: Chain sprocket |Item 2: Radials       |
+|Item 3: Brake drums  |Item 3: Fuel filter    |                       |Item 3: Break shoe    |
+|                     |Item 4: Spark plug     |                       |Item 4: Drum          |
+|                     |                       |                       |Item 5: Bearings      |
+|_____________________|_______________________|_______________________|______________________|
+50% off will be given for diagnose with more than two items
+
+Enter model of motorcycle: 
+honda
+ 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+1
+
+Braking Problems
+Quantity of item 1: 2
+Quantity of item 2: 1
+Quantity of item 3: 0
+Price: RM 78.00
+Price after discount: RM 39.00 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+2
+
+
+Bad Throttle Response
+Quantity of item 1: 3
+Quantity of item 2: 1
+Quantity of item 3: 2
+Quantity of item 4: 1
+Price: RM 206.80
+Price after discount: RM 103.40 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+3
+
+
+Vibrations or jerking
+Quantity of item 1: 1
+Quantity of item 2: 1
+Price: RM 101.90 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+4
+
+
+High Fuel Consumption
+Quantity of item 1: 1
+Quantity of item 2: 2
+Quantity of item 3: 3
+Quantity of item 4: 0
+Quantity of item 5: 1
+Price: RM 495.80
+Price after discount: RM 247.90 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+0
+
+Enter the number of other problems: 4
+Enter other problems that would like to be checked:
+0
+1
+2
+3
+ 
+Please enter details to be contacted: 
+Name: 
+alia
+Phone number: 
+01212121212
+Email: 
+alia@isthebeststudent.my
+ 
+_______________________________________
+SUMMARY OF ORDER                       |
+_______________________________________|
+
+Model of motorcycle: honda
+Subtotal: RM 492.20 
+SST: RM 49.22 
+Final total: RM 541.42 
+Grand total: 433.14  
+
+List of other problems: 
+0
+1
+2
+3
+
+Contact details of customer: 
+Name: alia
+Phone number: 01212121212
+Email: alia@isthebeststudent.my
+_______________________________________
+Customer's number: 4 6 5 8 7 
+THANK YOU FOR USING OUR VEHICLE SYSTEM!
+      HAVE A NICE DAY ^_^     
+
+Prepared By: GROUP 1 VEHICLE 
+
