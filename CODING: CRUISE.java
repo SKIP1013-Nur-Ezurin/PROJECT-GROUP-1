@@ -1,9 +1,8 @@
 package vehicle;
-
+//Cruise Dining System 
 import java.util.*;
 import java.util.Calendar;
 import java.util.Date;
-
 public class Cruise {
 
 	private static Scanner input = new Scanner(System.in);
