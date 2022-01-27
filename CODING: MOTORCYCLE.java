@@ -1,6 +1,7 @@
 package vehicle;
 import java.util.Scanner;
 import java.util.*;
+//Motorcycle Service Charge System 
 public class Motorcycle {
 
 	public static void main(String[] args) {
