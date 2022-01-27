@@ -2,7 +2,7 @@ package vehicle;
 
 import java.util.Scanner;
 import java.util.Date;
-
+//Train Ticket System
 public class Train {
 	public static String Name = "ASYRAAF DANIAL";
 	public static String depSt,destSt;
