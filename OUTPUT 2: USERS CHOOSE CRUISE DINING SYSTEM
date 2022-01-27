@@ -1,0 +1,374 @@
+************************************************************************************************
+*                                                                                              *
+*                               GROUP 1 SKIP 1013 GROUP PROJECT                                *
+*                                   WELCOME TO VEHICLE SYSTEM                                  *
+*                                THE BEST SERVICES FOR YOUR DAY                                *
+*                       PLAESE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *
+*                                                                                              *
+************************************************************************************************
+*            ONCE YOU ENTER THE INPUT OF THE CHOICE YOU WILL DIRECTLY ENTER THE SYSTEM         *
+* 1. Flight Reservation System                                                                 *
+* 2. Cruise Dining System                                                                      *
+* 3. Motorcycle Service Charge System                                                          *
+* 4. Train Ticket System                                                                       *
+* 5. Car Performance Tuning System                                                             *
+* CLICK 0 TO EXIT THE MAIN MENU                                                                *
+************************************************************************************************
+CREATE YOUR ACCOUNT IN THE SYSTEM FOR FREE! 
+Please insert your full name: 
+group 1
+Please insert your username: 
+group1isthebest
+CREATE YOUR OWN PASSWORD
+Terms and Conditions :
+1. A password must have at least eight characters.
+2. A password consists of only letters and digits.
+3. A password must contain at least two digits 
+Input a password (You are agreeing to the above Terms and Conditions.): abcd1234
+Password is valid: abcd1234
+PLEASE ENTER YOUR CHOICE : THE OUTPUT ACCEPTED ONLY 1/2/3/4/5/0 : 2
+Going to Background Management System...
+
+LIBERTY CRUISE INGREDIENTS ALLOCATION
+-----------------------------------------
+Maximum mass of ingredients needed for passenger
+Kindly Reminder!!!
+Maximum weight for the ingredients acceptable to brought on board are 600 kg.
+Mass which are most heavy for each package are used in prediction.
+
+Total passengers on Liberty Cruise : 1
+Going to next...
+
+------CHINESE CUISINE INGREDIENTS------
+
+Enter the total kilograms for all ingredients
+
+Total kilograms for Set 1 ingredients : 2.57 kg
+Total kilograms for Set 2 ingredients : 3.11 kg
+Total kilograms for Set 3 ingredients : 3.61 kg
+Suggested set to predict total kilograms is : Set 3 > 3.61 kg 
+Total kilograms for Set 3 ingredients needed by 1 passenger : 3.61 kg
+
+------WESTERN FOOD INGREDIENTS------
+
+Enter the total kilograms for all ingredients
+
+Total kilograms for Set 1 ingredients : 3.08 kg
+Total kilograms for Set 2 ingredients : 3.49 kg
+Total kilograms for Set 3 ingredients : 3.95 kg
+Suggested set to predict total kilograms is : Set 3 > 3.95 kg 
+Total kilograms for Set 3 ingredients needed by 1 passenger : 3.95 kg
+
+------BUFFET INGREDIENTS------
+
+Enter the total kilograms for all ingredients
+
+Total kilograms for ingredients needed by 1 passenger : 186.50 kg
+
+...........................................
+Total mass of final ingredients : 194.06 kg 
+The menu setting is accepted.
+...........................................
+
+Going to Main Order System...
+
+WELCOME TO LIBERTY CRUISE
+-------------------------
+Please insert your name : Mr. Edward
+Please enter your room number : 12
+Please enter your cruise ticket number (10 numbers) : 1234567891
+Checking...Please wait
+Register successfully
+
+Outfit of today (formal / flexible) : formal
+You are available to enjoy all 3 packages.
+Chinese Cuisine, Western Food and Buffet are served today.
+Please fill in the form below to select your choice.
+
+***************************************
+Which package would you like to choose?
+1 Chinese Cuisine
+2 Western Food
+3 Buffet
+***************************************
+
+Enter any number according to your choice : 2
+
+------MENU FOR WESTERN FOOD------
+
+Set 1
+(1) Tomato Rice
+(2) Stir Fried Sotong with Green Pepper
+(3) Baked Hawaiian Chicken
+(4) Brocolli & Cauliflower
+(5) Mushroom Soup
+(6) Sparkling Water
+(7) Fresh Fruit
+
+Set 2
+(1) Apple Salad
+(2) Garlic Butter Rice
+(3) Salted Prawn with Celery
+(4) Stewed Chicken with Chef’s Sauce
+(5) Spicy Egg Plant
+(6) Clam Chowder Soup
+(7) Mini Cream Puff
+(8) Orange Juice
+
+Set 3
+(1) Pasta Salad
+(2) Mushroom Rice
+(3) Salmon Fish
+(4) BBQ Chicken
+(5) Stir Fry Mixed Vegetables with Seafood
+(6) Pepperoni Pizza
+(7) Minestorone Soup
+(8) Tiramisu Crepe Cake Sliced
+(9) Mango Juice
+
+Enter any choice of Western Food
+Total Set 1 you wish to order : 0
+Total Set 2 you wish to order : 1
+Total Set 3 you wish to order : 0
+
+Do you want to add on?
+Enter your choice Y/N : y
+
+Continue order...
+
+***************************************
+Which package would you like to choose?
+1 Chinese Cuisine
+2 Western Food
+3 Buffet
+***************************************
+
+Enter any number according to your choice : 2
+
+------MENU FOR WESTERN FOOD------
+
+Set 1
+(1) Tomato Rice
+(2) Stir Fried Sotong with Green Pepper
+(3) Baked Hawaiian Chicken
+(4) Brocolli & Cauliflower
+(5) Mushroom Soup
+(6) Sparkling Water
+(7) Fresh Fruit
+
+Set 2
+(1) Apple Salad
+(2) Garlic Butter Rice
+(3) Salted Prawn with Celery
+(4) Stewed Chicken with Chef’s Sauce
+(5) Spicy Egg Plant
+(6) Clam Chowder Soup
+(7) Mini Cream Puff
+(8) Orange Juice
+
+Set 3
+(1) Pasta Salad
+(2) Mushroom Rice
+(3) Salmon Fish
+(4) BBQ Chicken
+(5) Stir Fry Mixed Vegetables with Seafood
+(6) Pepperoni Pizza
+(7) Minestorone Soup
+(8) Tiramisu Crepe Cake Sliced
+(9) Mango Juice
+
+Enter any choice of Western Food
+Total Set 1 you wish to order : 1
+Total Set 2 you wish to order : 0
+Total Set 3 you wish to order : 0
+
+Do you want to add on?
+Enter your choice Y/N : n
+
+Thank you for your order.
+
+-----------------------------------------------------------------------------------
+Table No. : 305                    LIBERTY CRUISE
+
+Time In : Fri Jan 28 00:15:33 MYT 2022    Time Out : Fri Jan 28 02:15:33 MYT 2022
+
+                                      Conditions                           
+
+1. For Buffet leftover food, you will be charge at the rate of RM 6 per 100 gram.
+2. Time limit to 2 hours for all packages.
+3. Time over charge : RM 3 per 10 minutes.
+4. WiFi password is ilovelibertycruise6688.
+-----------------------------------------------------------------------------------
+			Your two lucky number is 5726 2374 
+		Please stay on tonight for the lucky draw number.
+-----------------------------------------------------------------------------------
+
+...............................................
+Actual Quit Time : Fri Jan 28 02:35:33 MYT 2022
+Exceed Time     : 21.0 minutes
+Exceed Charge   : RM 6.00
+...............................................
+
+------PRICE OF CHINESE CUISINE------
+
+Per Set 1                : RM  88.00
+Payment For Set 1        : RM   0.00
+
+Per Set 2                : RM 128.00
+Payment For Set 2        : RM   0.00
+
+Per Set 3                : RM 168.00
+Payment For Set 3        : RM   0.00
+
+-------PRICE OF WESTERN FOOD--------
+
+Per Set 1                : RM 108.00
+Payment For Set 1        : RM 108.00
+
+Per Set 2                : RM 148.00
+Payment For Set 2        : RM 148.00
+
+Per Set 3                : RM 188.00
+Payment For Set 3        : RM   0.00
+
+----------PRICE OF BUFFET-----------
+
+For Each Adult           : RM 100.00
+Payment For All Adult    : RM   0.00
+
+For Each Children        : RM  20.00
+Payment For All Children : RM   0.00
+
+....................................
+Total set order : 2 set
+Total amount that need to pay : RM 256.00
+Overleft Food for Buffet (gram) : 100
+Overleft Charge for Buffet : RM 6.00
+Service Charge : RM 5.12
+Sales and Service Tax (SST) : RM 15.36Discount Received : RM 0.00 
+Subtotal with No Discount Received, 2% Service Charge, 6% SST, Overtime and Overleft Charge : RM 288.48 
+Total cash pay : RM 300
+Changes : RM 11.52 
+
+Processing...
+Your receipt are shown below : 
+
+                                   LIBERTY CRUISE                         
+                                  PAYMENT RECEIPTS                         
+-----------------------------------------------------------------------------------
+User        : Mr. Edward
+Ticket No.  : 1234567891
+Room No.    : 12
+Date        : Fri Jan 28 02:35:51 MYT 2022
+-----------------------------------------------------------------------------------
+No         Item Name            Unit            Price Per Unit            Cost(RM)       
+-----------------------------------------------------------------------------------
+a          Chinese Cuisine 
+1)         Set 1                  0                  88.00                   0.00
+2)         Set 2                  0                 128.00                   0.00
+3)         Set 3                  0                 168.00                   0.00
+
+b          Western Food 
+1)         Set 1                  1                 108.00                 108.00
+2)         Set 2                  1                 148.00                 148.00
+3)         Set 3                  0                 188.00                   0.00
+
+c          Buffet 
+1)         Adult                  0                 100.00                   0.00
+2)         Children               0                  20.00                   0.00
+-----------------------------------------------------------------------------------
+Amount				:                                          256.00
+-----------------------------------------------------------------------------------
+Discount Received		:                                            0.00
+-----------------------------------------------------------------------------------
+Service Charge (2%)		:                                            5.12
+-----------------------------------------------------------------------------------
+SST (6%)			:                                           15.36
+-----------------------------------------------------------------------------------
+Overtime Charge			:                                            6.00
+-----------------------------------------------------------------------------------
+Overleft Charge (Buffet) 	:                                            6.00
+-----------------------------------------------------------------------------------
+Subtotal			:                                          288.48
+-----------------------------------------------------------------------------------
+Cash				:                                          300.00
+-----------------------------------------------------------------------------------
+Balance				:                                           11.52
+***********************************************************************************
+                                     No Free Gift
+***********************************************************************************
+                                THANK YOU COME AGAIN                     
+***********************************************************************************
+
+Going Back to Background Management System...
+
+The remaining ingredients are shown below : 
+
+                                   LIBERTY CRUISE                      
+                             RESIDUAL INGREDIENTS COUNT                
+-----------------------------------------------------------------------------------
+Ingredients                
+-----------------------------------------------------------------------------------
+No          Item Name                 Kilograms               
+-----------------------------------------------------------------------------------
+1           Rice                                              16.80
+            Used Rice                                         16.80
+            Remaining Rice                                     0.00
+-----------------------------------------------------------------------------------
+2           Meat                                              15.15
+            Used Meat                                         15.02
+            Remaining Meat                                     0.13
+-----------------------------------------------------------------------------------
+3           Seafood                                           15.60
+            Used Seafood                                      15.45
+            Remaining Seafood                                  0.15
+-----------------------------------------------------------------------------------
+4           Egg                                               22.11
+            Used Egg                                          22.09
+            Remaining Egg                                      0.02
+-----------------------------------------------------------------------------------
+5           Vegetables                                        26.05
+            Used Vegetables                                   25.95
+            Remaining Vegetables                               0.10
+-----------------------------------------------------------------------------------
+6           Fruits                                            18.75
+            Used Fruits                                       18.67
+            Remaining Fruits                                   0.08
+-----------------------------------------------------------------------------------
+7           Oil                                               24.10
+            Used Oil                                          24.09
+            Remaining Oil                                      0.00
+-----------------------------------------------------------------------------------
+8           Flour                                              3.10
+            Used Flour                                         2.90
+            Remaining Flour                                    0.20
+-----------------------------------------------------------------------------------
+9           Water                                             52.40
+            Used Water                                        52.10
+            Remaining Water                                    0.30
+-----------------------------------------------------------------------------------
+TOTAL   :                                                      0.48
+-----------------------------------------------------------------------------------
+
+..........................................................................
+Remaining ingredients in the kitchen : 0.48 kg
+***The ingredients of Buffet already finished during the preparation.***
+..........................................................................
+
+RATING FROM PASSENGERS
+-----------------------
+[Please respond to the question below, where 1 represents 'Extremely Poor' and 5 represents 'Extremely Positive']
+How was your dining experience at Liberty Cruise today?
+Rating (1 - 5) : 4
+
+Good  ???
+
+Thank you for your rating.
+Here is a free hand sanitizer for you.
+Hope you have an enjoyable journey on Liberty Cruise.
+
+THANK YOU FOR USING OUR VEHICLE SYSTEM!
+      HAVE A NICE DAY ^_^     
+
+Prepared By: GROUP 1 VEHICLE 
+
