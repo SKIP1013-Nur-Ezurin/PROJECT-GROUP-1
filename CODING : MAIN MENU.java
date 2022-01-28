@@ -9,7 +9,7 @@ public static void mainMenu() {
 		System.out.println("*                               GROUP 1 SKIP 1013 GROUP PROJECT                                *");
 		System.out.println("*                                   WELCOME TO VEHICLE SYSTEM                                  *");
 		System.out.println("*                                THE BEST SERVICES FOR YOUR DAY                                *");
-		System.out.println("*                       PLAESE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *");
+		System.out.println("*                       PLEASE CHOOSE YOUR SERVICES THAT YOU INTERESTED                        *");
 		System.out.println("*                                                                                              *");
 		System.out.println("************************************************************************************************");
 		System.out.println("*            ONCE YOU ENTER THE INPUT OF THE CHOICE YOU WILL DIRECTLY ENTER THE SYSTEM         *");
@@ -65,8 +65,8 @@ public static void main(String[] args) throws Exception {
 		
 		//users choose cars system (Car Performance Tuning System)
 		else if  (vehicle == 5) {
-			Cars c = new Cars();
-			c.main(args);
+			Cars ca = new Cars();
+			ca.main(args);
 		}
 		
 		//users choose to exit the system
